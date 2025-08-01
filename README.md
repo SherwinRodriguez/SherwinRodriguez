@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 
 ![alt text](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Sherwin's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGVtaWo2Yi03Y2VhMzFiYS01MjRlLTQ0MGItODU2Ny01MjQ5MTk4Mzg1ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X1f9W8JPziANOvZR18_H7xwvgcy4XJ8b8yMgcrdM1f0" width="140" height="160">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="180" height="170">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4aTY0M2UxMWxrY2RuY2N4ZmF5NzJiOXV1MnJsc25nZ2JrdTk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="140" height="160">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDducGY0ajBneWs0dWUxZ3Mwbm50empkZTF2dDNiOGh5dGQyODl2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
-<img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944b60-96dc-4ae5-9486-f981d5842975/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkOTQ0YjYwLTk2ZGMtNGFlNS05NDg2LWY5ODFkNTg0Mjk3NVwvZDFwMGtyMi05MzFjOTkxYS05MDZjLTQ0ZGUtOWZmYS0wZjY1NGJjMzEwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mWAenByMAJlSrMsEbMShKRx2DyaIeaCsH55QMdQKKQ0" width="174" height="190">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif?token=eyJ0eXAiOiJKV1CiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGR3cWp1dC03OTA2MGZjMi1jNmJlLTRlODAtYWI0NC0zYzQwNTUyM2U0ZmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0vFkqN3rMaQ7mnEkhkZWkLG4XhR4Atr647NuIPzkhHk" >
+<img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="174" height="190">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MndpcWc4eWFoN2hqdXNyM3JycHMxYndlMjVlaWJod3BqMzdtc29obyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mhbuAjusbY0SL8FDGi/giphy.gif" >
 </div>
 <br>
 
@@ -60,10 +58,9 @@
 
 
 <br><br>
-<a href="https://www.linkedin.com/in/sherwin-rodriguez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sherwin.rodriguez@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFyN3pudm9iZzMwbzZvM3d1Mzc0ZWVwNWRsaXk5NzFqaGFwN2MzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8r2AZ0fEAFVto15uS4/giphy.gif" /></a>
+<a href="mailto:sherwin7rodriguez10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://www.codechef.com/users/sherwin-rodriguez" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 <a href="https://leetcode.com/u/sherwin-rodriguez/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://www.geeksforgeeks.org/user/sherwin-rodriguez/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
 
