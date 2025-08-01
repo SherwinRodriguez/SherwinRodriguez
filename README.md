@@ -4,8 +4,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJscG41OTFhZnh3a3FxeXEzMjZycXQ0eGFtazgzN2FqeWtvazB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpN3JxYjJ3dnA4am9wN2ExYWc2OWtvejVkdGltb2xuem1mNW1leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="180" height="170">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnIyZGJscDVjczJmb2tsNnJuYWczamF0eWQ2em1zM3poa2d5cGVmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XcAskcEyoyld03drLt/giphy.gif">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdjem10aG13OWd6Y2puOWV4eW5pMmZjcGN2MnowZW5yM2dxbGVhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdjem10aG13OWd6Y2puOWV4eW5pMmZjcGN2MnowZW5yM2dxbGVhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
 </div>
@@ -24,7 +23,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddr93fw-5011b54c-a4f3-425c-845b-177bac15db18.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRyOTNmdy01MDExYjU0Yy1hNGYzLTQyNWMtODQ1Yi0xNzdiYWMxNWRiMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5BZeJB8MG837ng4fhTjFKxW289FEYzShA7iymFt1oiw"/>
+<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwin-rodriguez&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="sherwin-rodriguez" /> </p>
 
