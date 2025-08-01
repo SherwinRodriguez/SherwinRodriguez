@@ -1,17 +1,15 @@
 <div align="center">
 
-
 ![alt text](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Sherwin's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4aTY0M2UxMWxrY2RuY2N4ZmF5NzJiOXV1MnJsc25nZ2JrdTk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="140" height="160">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDducGY0ajBneWs0dWUxZ3Mwbm50empkZTF2dDNiOGh5dGQyODl2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="174" height="190">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="200" height="200">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MndpcWc4eWFoN2hqdXNyM3JycHMxYndlMjVlaWJod3BqMzdtc29obyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mhbuAjusbY0SL8FDGi/giphy.gif" >
 </div>
 <br>
-
 
 ![alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
@@ -24,13 +22,11 @@
 
 <h3 align="center"><strong> A Passionate Full Stack Web Developer from the India <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
-
 <br><br>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwin-rodriguez&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="sherwin-rodriguez" /> </p>
-
 
 🔭 I’m currently working on A cool project
 
@@ -56,7 +52,6 @@
 <div align="center">
 <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
 
-
 <br><br>
 <a href="https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sherwin.rodriguez@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -67,7 +62,6 @@
 </a>
 
 </div>
-
 
 <br><br>
 
@@ -127,7 +121,6 @@
 </table>
 </div>
 
-
 <br><br>
 
 </table>
@@ -139,4 +132,3 @@
 <br/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
-
