@@ -58,8 +58,8 @@
 
 
 <br><br>
-<a href="https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFyN3pudm9iZzMwbzZvM3d1Mzc0ZWVwNWRsaXk5NzFqaGFwN2MzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8r2AZ0fEAFVto15uS4/giphy.gif" /></a>
-<a href="mailto:sherwin7rodriguez10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sherwin.rodriguez@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <a href="https://leetcode.com/u/sherwin-rodriguez/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://www.geeksforgeeks.org/user/sherwin-rodriguez/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
