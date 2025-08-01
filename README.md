@@ -2,16 +2,16 @@
 
 ![alt text](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Sherwin's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4aTY0M2UxMWxrY2RuY2N4ZmF5NzJiOXV1MnJsc25nZ2JrdTk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="140" height="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJscG41OTFhZnh3a3FxeXEzMjZycXQ0eGFtazgzN2FqeWtvazB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpN3JxYjJ3dnA4am9wN2ExYWc2OWtvejVkdGltb2xuem1mNW1leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="200" height="200">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MndpcWc4eWFoN2hqdXNyM3JycHMxYndlMjVlaWJod3BqMzdtc29obyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mhbuAjusbY0SL8FDGi/giphy.gif" width="170" height="190">
+<img src="https://www.deviantart.com/teentsuyoi/art/Aiden-Pearce-Watch-Dogs-Hacking-Animation-484353348" width="170" height="190">
 </div>
 <br>
 
-![alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddr93fw-5011b54c-a4f3-425c-845b-177bac15db18.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRyOTNmdy01MDExYjU0Yy1hNGYzLTQyNWMtODQ1Yi0xNzdiYWMxNWRiMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5BZeJB8MG837ng4fhTjFKxW289FEYzShA7iymFt1oiw)
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Sherwin Rodriguez</h1>
 
