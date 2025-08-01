@@ -2,12 +2,12 @@
 
 ![alt text](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Sherwin's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4aTY0M2UxMWxrY2RuY2N4ZmF5NzJiOXV1MnJsc25nZ2JrdTk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="140" height="160">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDducGY0ajBneWs0dWUxZ3Mwbm50empkZTF2dDNiOGh5dGQyODl2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="180" height="170">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4aTY0M2UxMWxrY2RuY2N4ZmF5NzJiOXV1MnJsc25nZ2JrdTk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="140" height="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpN3JxYjJ3dnA4am9wN2ExYWc2OWtvejVkdGltb2xuem1mNW1leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="200" height="200">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MndpcWc4eWFoN2hqdXNyM3JycHMxYndlMjVlaWJod3BqMzdtc29obyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mhbuAjusbY0SL8FDGi/giphy.gif" >
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MndpcWc4eWFoN2hqdXNyM3JycHMxYndlMjVlaWJod3BqMzdtc29obyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mhbuAjusbY0SL8FDGi/giphy.gif" width="170" height="190">
 </div>
 <br>
 
@@ -71,7 +71,7 @@
 <table>
 <tr>
 <td><strong>Programming Languages</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,latex&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js&theme=dark"></td>
 </tr>
 <tr>
 <td><strong>Frontend Development</strong></td>
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td><strong>Backend Development</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=java,spring&theme=dark"></td>
 </tr>
 <tr>
 <tr>
@@ -88,7 +88,7 @@
 </tr>
 <tr>
 <td><strong>Frameworks</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,nextjs&theme=dark"></td>
 </tr>
 <tr>
 <td><strong>Cloud Deployment</strong></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr>
 <td><strong>Developer Tools</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
+<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
 </td>
 </tr>
 <tr>
