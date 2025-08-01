@@ -24,7 +24,7 @@
 
 </h3>
 
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from the Philippines <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Full Stack Web Developer from the India <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 
 <br><br>
@@ -36,11 +36,11 @@
 
 🔭 I’m currently working on A cool project
 
-🌱 I’m currently learning Three.js,DSA
+🌱 I’m currently learning Blockchain,DSA
 
 💬 Ask me about javaScript,Next.js,Python,C++
 
-📫 reach me @ sherwin.rodriguez@example.com
+📫 reach me @ sherwin7rodriguez10@gmail.com
 
 👯 I’m looking to collaborate on open-source projects related to Web Development
 
