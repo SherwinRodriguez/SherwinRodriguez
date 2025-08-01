@@ -6,12 +6,10 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpN3JxYjJ3dnA4am9wN2ExYWc2OWtvejVkdGltb2xuem1mNW1leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="180" height="170">
 <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="140">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6aDVnMW53c3ZtMGlrcGk2M3p5YzJ1dnU1anBlM3V6MG8xaGF4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XcAskcEyoyld03drLt/giphy.gif" width="200" height="200">
-<img src="https://www.deviantart.com/teentsuyoi/art/Aiden-Pearce-Watch-Dogs-Hacking-Animation-484353348" width="170" height="190">
 </div>
 <br>
 
-![alt text](https://www.deviantart.com/pixeljeff/art/ROG-Wallpaper-Design-831834284)
+![alt text](https://www.deviantart.com/pixeljeff/art/Mastermind-847156722)
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Sherwin Rodriguez</h1>
 
@@ -132,3 +130,4 @@
 <br/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+
