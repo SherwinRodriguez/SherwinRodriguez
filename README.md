@@ -25,7 +25,9 @@
 
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherwin-rodriguez&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="sherwin-rodriguez" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SherwinRodriguez&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="SherwinRodriguez" />
+</p>
 
 🔭 I’m currently working on A cool project
 
@@ -42,9 +44,9 @@
 ⚡ Fun fact I am a Funny webber🕸️🕸️
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e336973-93c6-4a91-93ae-b928774c50b0/dge2rau-3408997f-46d3-4c9a-9469-9d7a6dfb7fc3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMzM2OTczLTkzYzYtNGE5MS05M2FlLWI5Mjg3NzRjNTBiMFwvZGdlMnJhdS0zNDA4OTk3Zi00NmQzLTRjOWEtOTQ2OS05ZDdhNmRmYjdmYzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hFOd-KjtAy90-lTsDbZ6cEARhrFaJw6mcA0wDH2oiTo" width="200" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e336973-93c6-4a91-93ae-b928774c50b0/dge2rau-3408997f-46d3-4c9a-9469-9d7a6dfb7fc3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMzM2OTczLTkzYzYtNGE5MS05M2FlLWI5Mjg3NzRjNTBiMFwvZGdlMnJhdS0zNDA4OTk3Zi00NmQzLTRjOWEtOTQ2OS05ZDdhNmRmYjdmYzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hFOd-KjtAy90-lTsDbZ6cEARhrFaJw6mcA0wDH2oiTo" width="200" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e336973-93c6-4a91-93ae-b928774c50b0/dge2rau-3408997f-46d3-4c9a-9469-9d7a6dfb7fc3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMzM2OTczLTkzYzYtNGE5MS05M2FlLWI5Mjg3NzRjNTBiMFwvZGdlMnJhdS0zNDA4OTk3Zi00NmQzLTRjOWEtOTQ2OS05ZDdhNmRmYjdmYzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hFOd-KjtAy90-lTsDbZ6cEARhrFaJw6mcA0wDH2oiTo" width="200" />
 
 </div>
 
