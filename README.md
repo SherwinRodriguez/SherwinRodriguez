@@ -1,270 +1,153 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                           🚀 SHERWIN'S DEVELOPMENT TERMINAL                         │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-  
-![Terminal GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-</div>
-
-```bash
-$ whoami
-sherwin-rodriguez
-
-$ cat /home/sherwin/bio.txt
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  Name:       Sherwin Emmanuel Rodriguez                                             ┃
-┃  Role:       Full Stack Developer & Problem Solver                                 ┃
-┃  Status:     Computer Science Student                                              ┃
-┃  Location:   India 🇮🇳                                                             ┃
-┃  Mission:    Building tomorrow's web, today                                        ┃
-┃  Motto:      "Code, Learn, Repeat"                                                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-$ sudo apt-get install skills
-```
-
-## 💻 System Specifications
-
-<table>
-<tr><td>
-
-**🖥️ Frontend Stack**
-```yaml
-frameworks:
-  - React.js
-  - Next.js
-  - Vite
-styling:
-  - Tailwind CSS
-  - Bootstrap
-  - CSS3
-markup:
-  - HTML5
-  - JSX
-```
-
-</td><td>
-
-**⚙️ Backend Stack**
-```yaml
-languages:
-  - Java
-  - Python
-  - C++
-frameworks:
-  - Spring Boot
-  - Node.js
-databases:
-  - MongoDB
-  - MySQL
-```
-
-</td></tr>
-<tr><td>
-
-**☁️ DevOps & Cloud**
-```yaml
-cloud:
-  - AWS
-deployment:
-  - Vercel
-  - Netlify
-  - GitHub Pages
-version_control:
-  - Git
-  - GitHub
-```
-
-</td><td>
-
-**🧠 Problem Solving**
-```yaml
-platforms:
-  - LeetCode
-  - GeeksforGeeks
-  - HackerRank
-focus_areas:
-  - Data Structures
-  - Algorithms
-  - System Design
-```
-
-</td></tr>
-</table>
-
-```bash
-$ ps aux | grep sherwin_current_activities
-```
-
-## 🔄 Current Processes
-
-| PID | Process Name | Status | Description |
-|-----|-------------|---------|-------------|
-| 001 | `blockchain_learning.exe` | Running | 🔗 Diving deep into Web3 & smart contracts |
-| 002 | `dsa_mastery.py` | Active | 📊 Daily problem solving on competitive platforms |
-| 003 | `open_source_contrib.js` | Listening | 🤝 Contributing to community projects |
-| 004 | `next_project.tsx` | Initializing | 🚀 Building the next big thing |
-
-```bash
-$ history | tail -10
-```
-
-## 📜 Command History
-
-```
-  492  git commit -m "implemented user authentication system"
-  493  npm run build --production
-  494  docker deploy --platform vercel
-  495  leetcode solve --difficulty hard
-  496  git push origin feature/blockchain-integration  
-  497  mvn spring-boot:run
-  498  aws s3 sync ./build s3://my-app-bucket
-  499  npm install @web3/blockchain-toolkit
-  500  git merge develop
-  501  echo "Ready for the next challenge! 🚀"
-```
+# 🌟 Welcome to My Digital Universe
 
 <div align="center">
 
-## 🎮 Achievement Unlocked!
+![Coding Wizard](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey%2C+I'm+Sherwin+Rodriguez;Full+Stack+Developer+%26+Problem+Solver;Building+the+future%2C+one+line+at+a+time)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SherwinRodriguez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="300"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SherwinRodriguez&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=SherwinRodriguez&style=for-the-badge&color=blueviolet&abbreviated=true)](https://github.com/SherwinRodriguez)
 
 </div>
 
-```bash
-$ top -u sherwin | head -20
+## 🚀 About Me
+
+```typescript
+const sherwin = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    education: "Computer Science Student",
+    passion: ["Web Development", "Blockchain", "DSA"],
+    currentFocus: "Building scalable applications",
+    lifePhilosophy: "Code with purpose, debug with patience",
+    
+    techStack: {
+        languages: ["JavaScript", "Python", "C++", "Java"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Spring Boot", "Node.js"],
+        databases: ["MongoDB", "MySQL"],
+        cloud: ["AWS"],
+        tools: ["Git", "VS Code", "IntelliJ"]
+    },
+    
+    currentlyLearning: ["Blockchain Development", "Advanced DSA"],
+    openToCollaborate: true,
+    askMeAbout: ["JavaScript", "React", "System Design", "Career Advice"]
+};
 ```
 
-## ⚡ Performance Metrics
+## 💫 What I'm Up To
+
+🔭 **Currently Working On:** Revolutionary web applications that solve real-world problems  
+🌱 **Learning Journey:** Diving deep into blockchain technology and mastering data structures  
+👯 **Open to Collaborate:** Exciting open-source projects and innovative web solutions  
+💡 **Fun Fact:** I believe every bug is just an undiscovered feature waiting to be documented  
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinRodriguez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+### Languages & Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
-```bash
-$ crontab -l
-```
-
-## ⏰ Scheduled Tasks
-
-```cron
-# Daily routines
-0 9 * * * /usr/bin/code --new-window ~/projects/
-30 10 * * * /usr/bin/leetcode --daily-challenge
-0 14 * * * /usr/bin/git --check-repos
-30 20 * * * /usr/bin/learn --topic blockchain
-0 23 * * * /usr/bin/backup --all-projects
-
-# Weekly goals  
-0 0 * * SUN /usr/bin/review --week-progress
-0 10 * * SAT /usr/bin/contribute --open-source
-```
+## 📊 GitHub Analytics
 
 <div align="center">
 
-```bash
-$ curl -s https://api.github.com/users/SherwinRodriguez/repos | jq '.[] | .name'
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SherwinRodriguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## 🗂️ Repository Portfolio
-
-*"Each repository tells a story of learning, growth, and innovation"*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinRodriguez&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
-```bash
-$ netstat -an | grep LISTEN
-```
-
-## 🌐 Network Connections
 
 <div align="center">
 
-| Service | Port | Status | Link |
-|---------|------|---------|------|
-| **LinkedIn** | 443 | 🟢 OPEN | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/) |
-| **Gmail** | 587 | 🟢 OPEN | [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sherwin7rodriguez10@gmail.com) |
-| **LeetCode** | 443 | 🟢 OPEN | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sherwin-rodriguez/) |
-| **GeeksforGeeks** | 443 | 🟢 OPEN | [![GFG](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sherwin-rodriguez/) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SherwinRodriguez&theme=tokyonight)
 
 </div>
 
-```bash
-$ figlet "TECH STACK" | lolcat
-```
+## 🏆 Coding Achievements
 
 <div align="center">
 
-## 🛠️ System Dependencies
-
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  Languages     │  Frontend      │  Backend       │  Tools       │
-├─────────────────────────────────────────────────────────────────┤
-│  JavaScript    │  React         │  Spring Boot   │  Git         │
-│  Python        │  Next.js       │  Node.js       │  VS Code     │
-│  Java          │  HTML5         │  MongoDB       │  IntelliJ    │
-│  C++           │  CSS3          │  MySQL         │  AWS         │
-│  TypeScript    │  Tailwind      │  Express       │  Docker      │
-└─────────────────────────────────────────────────────────────────┘
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=SherwinRodriguez&theme=discord&no-frame=true&row=1&column=7)](https://github.com/SherwinRodriguez)
 
 </div>
 
-```bash
-$ fortune | cowsay
-```
+## 🎯 Problem Solving Stats
 
 <div align="center">
 
-```
- ________________________________________
-< The best developers are those who      >
-< never stop learning and experimenting  >
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sherwin-rodriguez/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sherwin-rodriguez/)
+
+**DSA Journey:** Solving complex algorithms and data structure problems daily  
+**Goal:** Master 500+ LeetCode problems by 2025
 
 </div>
 
-```bash
-$ tail -f /var/log/motivation.log
-```
-
-## 📊 Live Feed
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-![Snake Game](https://raw.githubusercontent.com/SherwinRodriguez/SherwinRodriguez/output/snake.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SherwinRodriguez&style=flat-square&color=brightgreen&label=Terminal+Sessions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-emmanuel-rodriguez-67445b290/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherwin7rodriguez10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
-```bash
-$ echo "Thanks for visiting my terminal! Feel free to fork, star, or collaborate 🚀"
-$ logout
+## 🎨 Recent Activity
 
-Connection to sherwin-rodriguez.dev closed.
-```
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
 
 ---
 
 <div align="center">
 
-*💡 Pro tip: Try running `git clone https://github.com/SherwinRodriguez.git` to explore my repositories!*
+### 💭 Developer Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+**"The best code is not just functional, but tells a story"** ✨
+
+*Thanks for visiting! Let's build something amazing together* 🚀
+
+![Snake animation](https://github.com/SherwinRodriguez/SherwinRodriguez/blob/output/github-contribution-grid-snake.svg)
 
 </div>
