@@ -232,12 +232,6 @@ Building solutions that make a meaningful difference in people's lives.
 
 ## 🎨 Latest Projects & Contributions
 
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/SherwinRodriguez/SherwinRodriguez/output/snake.svg)
-
-</div>
-
 ## 💭 Daily Motivation
 
 <div align="center">
