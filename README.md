@@ -1,4 +1,4 @@
-# <div align="center">🌟 Hello World, I'm Sherwin Rodriguez! 🌟</div>
+# <div align="center">🌟 Hello developers, I'm Sherwin Rodriguez! 🌟</div>
 
 <div align="center">
 
