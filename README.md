@@ -189,49 +189,6 @@ const sherwin = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SherwinRodriguez&custom_title=Sherwin's%20GitHub%20Activity&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true)
 
-</div>
-
-## 🌟 What Drives Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-
-### 💡 Innovation
-Constantly exploring new technologies and creative solutions to real-world problems.
-
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
-
-### 🚀 Growth  
-Committed to continuous learning and pushing the boundaries of what's possible.
-
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80"/>
-
-### 🤝 Community
-Believing in the power of collaboration and knowledge sharing.
-
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
-
-### 🎯 Impact
-Building solutions that make a meaningful difference in people's lives.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎨 Latest Projects & Contributions
-
 ## 💭 Daily Motivation
 
 <div align="center">
