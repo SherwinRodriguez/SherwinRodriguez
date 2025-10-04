@@ -1,9 +1,6 @@
-# <div align="center">🌟 Hello developers, I'm Sherwin Rodriguez! 🌟</div>
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:243aff,50:4687f0,100:7aa8f7&height=250&section=header&text=Sherwin%20Rodriguez&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20・%20Blockchain%20Engineer%20・%20Problem%20Solver&descAlignY=55&descSize=20)
 </div>
 
 <div align="center">
@@ -51,34 +48,14 @@ const sherwin = {
 
 <br clear="all">
 
-## 🎯 What I'm Up To
+### 🎯 What I'm Up To
 
-<div align="center">
+- 🚀 Building full-stack fintech applications with microservices architecture
+- 🌐 Exploring blockchain solutions for real-world DeFi problems
+- 📊 Solving DSA problems daily on LeetCode and GeeksforGeeks
+- 🤝 Contributing to open-source and participating in hackathons
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔭 Current Focus
-- 🚀 Building scalable web applications
-- 🌐 Exploring Web3 & blockchain technology  
-- 📚 Mastering data structures & algorithms
-- 🤝 Contributing to open-source projects
-
-</td>
-<td align="center" width="50%">
-
-### 🌱 Learning Journey  
-- 📊 Advanced system design patterns
-- ⚡ Performance optimization techniques
-- 🔒 Cybersecurity fundamentals
-- 🎨 UI/UX design principles
-
-</td>
-</tr>
-</table>
-
-</div>
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -139,50 +116,6 @@ const sherwin = {
 
 </div>
 
-## 🎯 Problem Solving & Competitive Programming
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🟡 LeetCode
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sherwin-rodriguez/)
-
-**Focus Areas:**
-- 🔍 Algorithms & Data Structures
-- 💡 Daily Problem Solving
-- 📈 Contest Participation
-
-</td>
-<td align="center" width="33%">
-
-### 🟢 GeeksforGeeks
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sherwin-rodriguez/)
-
-**Activities:**
-- 📚 Article Reading & Practice
-- 🎯 Interview Preparation  
-- 🚀 Skill Enhancement
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 Current Goals
-**2024-2025 Targets:**
-
-- ✅ Solve 500+ coding problems
-- 🏆 Participate in coding contests
-- 📈 Improve problem-solving speed
-- 🤝 Help others in community
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -221,13 +154,10 @@ I'm always excited to connect with fellow developers, discuss new ideas, and col
 
 <div align="center">
 
-**"The best way to predict the future is to create it."** ✨
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:243aff,50:4687f0,100:7aa8f7&height=120&section=footer)
 
-*Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to star ⭐ anything interesting!*
+**"Code with purpose, learn with passion!"** ✨
 
-</div>
+*Thank you for visiting! ⭐ Star repositories that inspire you*
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 </div>
