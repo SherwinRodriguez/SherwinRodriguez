@@ -136,10 +136,10 @@ const sherwin = {
 
 I'm always excited to connect with fellow developers, discuss new ideas, and collaborate on interesting projects. Whether you want to:
 
-- 💬 Chat about technology and development
-- 🤝 Collaborate on a project  
-- 🎯 Work together on open-source
-- 📚 Share knowledge and learn together
+- Chat about technology and development
+- Collaborate on a project  
+- Work together on open-source
+- Share knowledge and learn together
 
 **Don't hesitate to reach out!**
 
